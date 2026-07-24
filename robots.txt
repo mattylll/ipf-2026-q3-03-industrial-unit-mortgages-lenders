@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/ipf-2026-q3-03-industrial-unit-mortgages-lenders/sitemap.xml
